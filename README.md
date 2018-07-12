@@ -4,8 +4,10 @@
 
 ## 文件夹
 
-* [Mark](https://github.com/singularity-point/Ewread/tree/master/Mark)
+* Mark
+* Cary
 
 ## 参与人
 
 * [Mr Zhang123](https://github.com/MrZhang123)
+* [snake89322](https://github.com/snake89322)
